@@ -2,7 +2,7 @@
 Goal: Collect the required amount of gold to win (12)
 Rules: Cannot go through walls.
 Feedback: Will tell you how much gold you collected as well as any powerups/downs you collect
-Freedom: Are able to move on your own and chose whether to use hte powerups.
+Freedom: Are able to move on your own and chose whether to use the powerups.
 
 ''' 
 #  import libraries and modules
