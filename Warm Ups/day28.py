@@ -10,6 +10,6 @@ def factorial(x):
 
     return (x * factorial(x-1))
 
-num = 4
+num = 8
 
 print("The factorial of", num, "is", factorial(num))
