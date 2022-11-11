@@ -4,26 +4,6 @@ Using the two blocks of code below, create a window that creates a folder, and c
 """
 # https://automatetheboringstuff.com/2e/chapter9/
 
-# Using pathlib and OS to create directories and add files
-#from pathlib import Path
-#import os
-#print(Path.cwd())
-
-#os.chdir('C:/github')
-
-#print(Path.cwd())
-
-#os.makedirs('C:/github/loo')
-
-#os.chdir('C:/github/loo')
-
-#print(Path.cwd())
-
-#p = Path('entry')
-
-#p.write_text("Hello there!")
-
-#p.read_text()
 from pathlib import Path
 import os
 print(Path.cwd())
